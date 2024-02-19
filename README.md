@@ -7,6 +7,8 @@ This is a Flappy Bird implementation in VHDL for the Nexys 4 FPGA development bo
 - Flappy Bird game implemented in VHDL.
 - VGA display with a resolution of 320x240 pixels.
 - User input via a keypad PMOD connected to the Nexys 4 board.
+- Multiple skins to choose from.
+- Difficulty levels included.
 
 ## Development Team
 This project was 100% developed by El Mehdi Marzoug and Romain Losilla, as part of our VHDL Project at Enseirb-matmeca engineering school.
